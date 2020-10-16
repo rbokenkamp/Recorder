@@ -1,0 +1,25 @@
+{
+  "name": "Recorder",
+  "version": "0.0.0",
+  "description": "",
+  "main": "core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbokenkamp/Recorder.git"
+  },
+  "author": "raymond@bokenkamp.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rbokenkamp/Recorder/issues"
+  },
+  "homepage": "https://github.com/rbokenkamp/Recorder#readme",
+  "dependencies": {
+    "Core": "git+https://github.com/rbokenkamp/Core.git",
+    "sass": "^1.27.0",
+    "videoshow": "^0.1.12",
+    "ws": "^7.3.1"
+  }
+}
