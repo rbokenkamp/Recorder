@@ -1,4 +1,4 @@
-# Configurator
+# Recorder
 
 # install
 npm install
